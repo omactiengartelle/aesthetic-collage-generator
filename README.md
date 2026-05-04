@@ -91,3 +91,13 @@ The `--token` flag is the only way the script accepts your credentials.
 ---
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node aestheticcollagegenerator.js "aesthetic magazine-style photo collage, layered cinematic composition, warm golden tones, vintage film grain, dried flowers and pressed petals, polaroid frames and torn paper edges, handwritten typography overlays, soft sun flare, scrapbook layout, Pinterest-core, dreamy lifestyle aesthetic, high detail"
+```
+
+![Example output](https://oss.talesofai.cn/picture/b5a3180d-2224-44bb-9def-373237cf1f2a.webp)
+
+> Prompt: *"aesthetic magazine-style photo collage, layered cinematic composition, warm golden tones, vintage film grain, dried flowers and pressed petals, polaroid frames and torn paper edges, handwritten typography overlays, soft sun flare, scrapbook layout, Pinterest-core, dreamy lifestyle aesthetic, high detail"*
